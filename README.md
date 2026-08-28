@@ -1,7 +1,6 @@
 ## 🛠️ Tech Stack
 
-**Languages**
-`C#` `Dart` `TypeScript` `JavaScript` `Java` `Python` `SQL` `PHP`
+**Languages** `C#` `Dart` `TypeScript` `JavaScript` `Java` `Python` `SQL` `PHP`
 
 **Frontend & Mobile**
 `Flutter` `React` `Next.js` `Tailwind CSS`
@@ -10,10 +9,10 @@
 `Unity` `C#`
 
 **Backend & Cloud**
-`Firebase` `Firestore` `AWS` `PostgreSQL`
+`Firebase` `Firestore` `AWS` `PostgreSQL` `MariaDB`
 
 **DevOps & Tools**
-`Docker` `Git` `CI/CD` `Power BI`
+`Docker` `Git` `CI/CD` `Power BI` 
 
 **Currently Learning**
 `Golang` `React Native` `Laravel`
