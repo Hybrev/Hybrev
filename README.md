@@ -1,5 +1,3 @@
-## I build cross-platform applications, web platforms, game interfaces, and cloud-backed systems.
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -33,4 +31,4 @@
 **Bachelor of Science in Computer Science — Cum Laude**
 
 ---
-A jack of all trades is a master of none, but often times better than a master of one.
+> A jack of all trades is a master of none, but often times better than a master of one.
