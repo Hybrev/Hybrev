@@ -48,10 +48,3 @@
     height="165"
   />
 </p>
-
----
-
-## 📝 Personal Mantra
-<p align="center">
- A jack of all trades is a master of none, but often times better than a master of one.
-</p>
