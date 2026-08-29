@@ -1,33 +1,57 @@
-## 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm JJ!</h1>
+<h3 align="center">Software Developer based in the Philippines 🇵🇭</h3>
 
-**Languages** `C#` `Dart` `TypeScript` `JavaScript` `Java` `Python` `SQL` `PHP`
-
-**Frontend & Mobile**
-`Flutter` `React` `Next.js` `Tailwind CSS`
-
-**Game Development**
-`Unity` `C#`
-
-**Backend & Cloud**
-`Firebase` `Firestore` `AWS` `PostgreSQL` `MariaDB`
-
-**DevOps & Tools**
-`Docker` `Git` `CI/CD` `Power BI` 
-
-**Currently Learning**
-`Golang` `React Native` `Laravel`
-
-## 💻 What I Work On
-
-- 🎮 Player-focused UI systems with Unity and C#
-- 📱 Cross-platform mobile applications with Flutter
-- 🌐 Web applications with React, Next.js, and TypeScript
-- ☁️ Serverless and cloud-backed systems with AWS and Firebase
-- 🐳 Containerized development and deployment with Docker
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science — Cum Laude**
+<p align="center">
+  Building web, mobile, and software applications.
+</p>
 
 ---
-> A jack of all trades is a master of none, but often times better than a master of one.
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dart,java,js,ts,php,html" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,unity" />
+</p>
+
+### Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mariadb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Hybrev&show_icons=true&theme=blue_navy"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Hybrev&layout=compact&langs_count=8&theme=blue_navy"
+    height="165"
+  />
+</p>
+
+---
+
+## 📝 Personal Mantra
+<p align="center">
+ A jack of all trades is a master of none, but often times better than a master of one.
+</p>
