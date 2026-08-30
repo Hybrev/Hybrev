@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm JJ!</h1>
-<h3 align="center">Software Developer based in the Philippines 🇵🇭</h3>
-
-<p align="center">
-  Building web, mobile, and software applications.
-</p>
+<h1 align="center">Hi, I'm JJ!</h1>
+<h3 align="center">Software Developer 🇵🇭</h3>
 
 ---
 
